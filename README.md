@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm David 👋
+Am a junior Fullstack devloper and professional Frontend Developer passionate about building clean UI.
 
-<!--
-**davidchinedu318-dev/davidchinedu318-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- HTML, CSS, JavaScript
+- Bootstrap, Git, PHP
 
-Here are some ideas to get you started:
+## Projects
+- Weather App 🌦️ (link)
+- Portfolio Website (link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: davidchinedu318@gmail.com
