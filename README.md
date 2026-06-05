@@ -2,8 +2,8 @@
 Am a junior Fullstack devloper and professional Frontend Developer passionate about building clean UI.
 
 ## Skills
-- HTML, CSS, JavaScript
-- Bootstrap, Git, PHP
+- HTML, CSS, JavaScript,
+- Bootstrap,Tailwind, Next.js, Git, PHP
 
 ## Projects
 - Weather App: https://your-climent.netlify.app
