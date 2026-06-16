@@ -8,6 +8,7 @@ Am a junior Fullstack devloper and professional Frontend Developer passionate ab
 ## Projects
 - Weather App: https://your-climent.netlify.app
 - A mini product catalog website for a phone dealer with responsive UI: https://pzimgadgets.netlify.app/
+- A Resturant website: https://resturant-sample.vercel.app
 
 ## Contact
 - Email: davidchinedu318@gmail.com
